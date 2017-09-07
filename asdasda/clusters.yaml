@@ -1,10 +1,5 @@
 - Account: gpuhome
   AutoDeploy: false
-  Name: asdasd
-  Provider: kubernetes
-  Src: asdasd.yaml
-- Account: gpuhome
-  AutoDeploy: false
   Name: asdasdasdtest123a
   Provider: kubernetes
   Src: sdasdasd.yaml
