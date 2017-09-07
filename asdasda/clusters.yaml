@@ -3,8 +3,3 @@
   Name: asdasdasdtest123
   Provider: kubernetes
   Src: asdasd.yaml
-- Account: gpuhome
-  AutoDeploy: false
-  Name: adasdasd
-  Provider: kubernetes
-  Src: wwww.yaml
