@@ -1,5 +1,1 @@
-- Account: gpuhome
-  AutoDeploy: false
-  Name: asdad
-  Provider: kubernetes
-  Src: asdasd.yaml
+[]
