@@ -1,3 +1,0 @@
-# For kubernetes provider, currenty only name is stored.
-# The kubernetes config itself is stored in KuberLab for better security.
-name: asd
