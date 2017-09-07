@@ -3,8 +3,3 @@
   Name: asdasdd2
   Provider: kubernetes
   Src: asdasd.yaml
-- Account: gpuhome
-  AutoDeploy: false
-  Name: asdad
-  Provider: kubernetes
-  Src: asdasds.yaml
