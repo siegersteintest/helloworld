@@ -1,0 +1,5 @@
+- Account: gpuhome
+  AutoDeploy: false
+  Name: test1
+  Provider: kubernetes
+  Src: asdasd.yaml
